@@ -1,0 +1,64 @@
+body{
+    background-color: #5b212d;
+}
+
+.Title{
+    color: white;
+    margin-bottom: 2px;
+    margin-top: 8px;
+    text-align: center;
+}
+
+li{
+    color: whitesmoke;
+}
+
+.Photo{
+    width: 320px;
+    height: 480px;
+    margin-left: 30px;
+    margin-top: 47px;
+    border-radius: 8px;
+    margin-bottom: 7px;
+    cursor: pointer;
+}
+
+.photoAndDesc{
+    align-items: center;
+    display: flex;
+}
+
+.container{
+    background-color: #7a3a47;
+    width: 640px;
+    margin: 0 auto;
+    margin-top: 1.4%;
+    border-radius: 12px;
+}
+
+.DescriptionHolder{
+    background-color: #692f3a;
+    border-radius: 6px;
+    margin-right: 8px;
+    color: #dddddc;
+    text-shadow: #dddddc5d;
+    margin-left: 10px;
+}
+
+.genre{
+    margin-left: 10px;
+    color: #dddddc;
+    text-shadow: #dddddc5d;
+}
+
+.YTvid{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 12px;
+    border-radius: 3px;
+}
+
+.descAndGenre{
+    display: flex;
+    flex-direction: column;
+}
